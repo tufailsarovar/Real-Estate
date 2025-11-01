@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-rr27vdy0i1zkqfqd.us.auth0.com"
      clientId="JeE5ygOMFZrT5HWaESbbn66gEV7wEV93"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://real-estate-4jn4-dg48as9bn-tufail-sarovars-projects.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
